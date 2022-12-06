@@ -51,7 +51,6 @@ BR,BayerischerRundfunk,,Muenchen,,employment,j
 BuJo,BurdaJournalistenschule,HubertBurdaMedia,Offenburg,,education,
 BuPoBi,BundeszentraleFuerPolitischeBildung,,Bonn,,employment,n
 CaDr,CarolinaDrueten,WeltN24,Berlin,Redakteurin,person,
-CarSc,CarolinSchulz,Onmeda,Mainz,Chefredakteurin,person,
 CaSc,CathrinSchmiegel,DerSpiegel,,Redakteurin,person,
 CaVe,CarlsenVerlagGmbH,CarlsenVerlagGmbH,Hamburg,,employment,n
 ChMe,ChristinaMetallinos,BayrischerRundfunk,Muenchen,Moderatorin,person,
@@ -277,7 +276,6 @@ MDR,MitteldeutscherRundfunk,,Leipzig,,employment,j
 MeBi,MedienpreisBildungsjournalismus,DeutscheTelekomStiftung,,,preis,
 MeDeDi,MedienpreisDerDeutschenDiabetesGesellschaft,DeutschenDiabetesGesellschaft,,,preis,
 MeHi,MedienpreisHIVAIDS,BayerischerRundfunk,Muenchen,,preis,
-MeHoHa,MedizinischeHochschuleHannover,,Hannover,,education,
 MeKa,MerveKayikci,SWR,,Moderatorin,person,
 MeLoe,MedienloewinnenPreis,SueddeutscheZeitung,Muenchen,,preis,
 MeLue,MedienhausLueneburg,,Lueneburg,,employment,n
@@ -312,7 +310,6 @@ OBP,OttoBrennerPreis,DossierAT,Wien,,preis,
 OFU,OttoFriedrichUniversitaet,,Bamberg,,education,
 OlSa,OliviaSamnick,,Hamburg,FreieJournalistin,person,
 OnJoAw,OnlineJournalismAward,,,,preis,
-Onme,Onmeda,gofemininGmbH,,,employment,n
 OpIn,OpenInnovationCity,,,,engagement,
 OrGe,OriginalsGesucht,republicaUndDeezer,,,preis,
 OtBrNe,OttoBrennerNewcomerpreis,OttoBrennerStiftungIGMetall,Frankfurt,,preis,
@@ -471,3 +468,12 @@ KrRe,Krautreporter,,Berlin,,employment,n
 meiKa,meinKA,,Karlsruhe,,employment,n
 RTL,RTLDeutschland,,Koeln,,employment,n
 RosMag,RosaMag,,Berlin,,employment,n
+SueKur,Suedkurier,,Konstanz,,employment,n
+BeZe,BerlinerZeitung,,Berlin,,employment,n
+yko,YKollektiv,sendefähigGmbH,,employment,j
+ntv,NTvDerNachrichtensender,,Koeln,employment,n
+ImMed,ImpulseMedien,,Hamburg,,employment,n
+Stern,Stern,,Hamburg,,employment,n
+EvSc,EvaCarolinSchulz,Funk,Berlin,,person,
+ZeUn,ZeppelinUniversitaet,,Friedrichshafen,,education,
+HaBl,Handelsblatt,,Duesseldorf,employment,n
